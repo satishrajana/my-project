@@ -1,1 +1,3 @@
 test
+
+I am making changes to Fred.text
